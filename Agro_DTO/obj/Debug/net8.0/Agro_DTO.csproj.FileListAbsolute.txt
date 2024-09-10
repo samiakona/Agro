@@ -1,0 +1,17 @@
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\bin\Debug\net8.0\Agro_DTO.deps.json
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\bin\Debug\net8.0\Agro_DTO.runtimeconfig.json
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\bin\Debug\net8.0\Agro_DTO.dll
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\bin\Debug\net8.0\Agro_DTO.pdb
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\bin\Debug\net8.0\Agro_Aggregate.dll
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\bin\Debug\net8.0\Agro_Aggregate.pdb
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\obj\Debug\net8.0\Agro_DTO.csproj.AssemblyReference.cache
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\obj\Debug\net8.0\Agro_DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\obj\Debug\net8.0\Agro_DTO.AssemblyInfoInputs.cache
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\obj\Debug\net8.0\Agro_DTO.AssemblyInfo.cs
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\obj\Debug\net8.0\Agro_DTO.csproj.CoreCompileInputs.cache
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\obj\Debug\net8.0\Agro_DTO.csproj.Up2Date
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\obj\Debug\net8.0\Agro_DTO.dll
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\obj\Debug\net8.0\refint\Agro_DTO.dll
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\obj\Debug\net8.0\Agro_DTO.pdb
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\obj\Debug\net8.0\Agro_DTO.genruntimeconfig.cache
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_DTO\obj\Debug\net8.0\ref\Agro_DTO.dll

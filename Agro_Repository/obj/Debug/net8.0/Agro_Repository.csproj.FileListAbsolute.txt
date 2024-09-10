@@ -1,0 +1,17 @@
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\bin\Debug\net8.0\Agro_Repository.deps.json
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\bin\Debug\net8.0\Agro_Repository.runtimeconfig.json
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\bin\Debug\net8.0\Agro_Repository.dll
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\bin\Debug\net8.0\Agro_Repository.pdb
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\bin\Debug\net8.0\Agro_Aggregate.dll
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\bin\Debug\net8.0\Agro_Aggregate.pdb
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\obj\Debug\net8.0\Agro_Repository.csproj.AssemblyReference.cache
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\obj\Debug\net8.0\Agro_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\obj\Debug\net8.0\Agro_Repository.AssemblyInfoInputs.cache
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\obj\Debug\net8.0\Agro_Repository.AssemblyInfo.cs
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\obj\Debug\net8.0\Agro_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\obj\Debug\net8.0\Agro_Rep.8C818EBB.Up2Date
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\obj\Debug\net8.0\Agro_Repository.dll
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\obj\Debug\net8.0\refint\Agro_Repository.dll
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\obj\Debug\net8.0\Agro_Repository.pdb
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\obj\Debug\net8.0\Agro_Repository.genruntimeconfig.cache
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Repository\obj\Debug\net8.0\ref\Agro_Repository.dll

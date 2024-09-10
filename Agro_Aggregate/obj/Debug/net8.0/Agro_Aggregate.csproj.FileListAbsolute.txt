@@ -1,0 +1,11 @@
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Aggregate\bin\Debug\net8.0\Agro_Aggregate.deps.json
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Aggregate\bin\Debug\net8.0\Agro_Aggregate.dll
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Aggregate\bin\Debug\net8.0\Agro_Aggregate.pdb
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Aggregate\obj\Debug\net8.0\Agro_Aggregate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Aggregate\obj\Debug\net8.0\Agro_Aggregate.AssemblyInfoInputs.cache
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Aggregate\obj\Debug\net8.0\Agro_Aggregate.AssemblyInfo.cs
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Aggregate\obj\Debug\net8.0\Agro_Aggregate.csproj.CoreCompileInputs.cache
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Aggregate\obj\Debug\net8.0\Agro_Aggregate.dll
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Aggregate\obj\Debug\net8.0\refint\Agro_Aggregate.dll
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Aggregate\obj\Debug\net8.0\Agro_Aggregate.pdb
+C:\Users\Kamrul\Desktop\Project\Agro\Agro_Aggregate\obj\Debug\net8.0\ref\Agro_Aggregate.dll

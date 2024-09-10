@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Agro_Aggregate/1.0.0": {
+        "runtime": {
+          "Agro_Aggregate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Agro_Aggregate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
